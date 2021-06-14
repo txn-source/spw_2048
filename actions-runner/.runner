@@ -1,0 +1,9 @@
+﻿{
+  "agentId": 2,
+  "agentName": "github-runner",
+  "poolId": 1,
+  "poolName": "Default",
+  "serverUrl": "https://pipelines.actions.githubusercontent.com/ULdonhXfWrVWQc1BCiA9RV7P2ALd5NYY73xfttZUG4hktrhHu9",
+  "gitHubUrl": "https://github.com/txn-source/spw_2048",
+  "workFolder": "_work"
+}

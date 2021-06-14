@@ -1,0 +1,181 @@
+[2021-06-14 18:35:23Z INFO HostContext] No proxy settings were found based on environmental variables (http_proxy/https_proxy/HTTP_PROXY/HTTPS_PROXY)
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO HostContext] Well known config file 'Credentials': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials'
+[2021-06-14 18:35:23Z INFO Listener] Runner is built for Windows (X64) - win-x64.
+[2021-06-14 18:35:23Z INFO Listener] RuntimeInformation: Microsoft Windows 10.0.19042.
+[2021-06-14 18:35:23Z INFO Listener] Version: 2.278.0
+[2021-06-14 18:35:23Z INFO Listener] Commit: 62d926efce35d3ea16d7624a25aaa5b300737def
+[2021-06-14 18:35:23Z INFO Listener] Culture: de-AT
+[2021-06-14 18:35:23Z INFO Listener] UI Culture: de-DE
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO Listener] Validating directory permissions for: 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO CommandLineParser] Parse
+[2021-06-14 18:35:23Z INFO CommandLineParser] Parsing 5 args
+[2021-06-14 18:35:23Z INFO CommandLineParser] parsing argument
+[2021-06-14 18:35:23Z INFO CommandLineParser] HasArgs: False
+[2021-06-14 18:35:23Z INFO CommandLineParser] Adding Command: configure
+[2021-06-14 18:35:23Z INFO CommandLineParser] parsing argument
+[2021-06-14 18:35:23Z INFO CommandLineParser] HasArgs: True
+[2021-06-14 18:35:23Z INFO CommandLineParser] arg: url
+[2021-06-14 18:35:23Z INFO CommandLineParser] parsing argument
+[2021-06-14 18:35:23Z INFO CommandLineParser] HasArgs: True
+[2021-06-14 18:35:23Z INFO CommandLineParser] Adding option 'url': 'https://github.com/txn-source/spw_2048'
+[2021-06-14 18:35:23Z INFO CommandLineParser] parsing argument
+[2021-06-14 18:35:23Z INFO CommandLineParser] HasArgs: True
+[2021-06-14 18:35:23Z INFO CommandLineParser] arg: token
+[2021-06-14 18:35:23Z INFO CommandLineParser] parsing argument
+[2021-06-14 18:35:23Z INFO CommandLineParser] HasArgs: True
+[2021-06-14 18:35:23Z INFO CommandLineParser] Adding option 'token': '***'
+[2021-06-14 18:35:23Z INFO Listener] Arguments parsed
+[2021-06-14 18:35:23Z INFO Runner] ExecuteCommand
+[2021-06-14 18:35:23Z INFO ConfigurationStore] currentAssemblyLocation: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin\Runner.Listener.dll
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO ConfigurationStore] binPath: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO ConfigurationStore] RootFolder: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO HostContext] Well known config file 'Runner': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.runner'
+[2021-06-14 18:35:23Z INFO ConfigurationStore] ConfigFilePath: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.runner
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO HostContext] Well known config file 'Credentials': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials'
+[2021-06-14 18:35:23Z INFO ConfigurationStore] CredFilePath: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO HostContext] Well known config file 'MigratedCredentials': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_migrated'
+[2021-06-14 18:35:23Z INFO ConfigurationStore] MigratedCredFilePath: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_migrated
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:23Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:23Z INFO HostContext] Well known config file 'Service': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.service'
+[2021-06-14 18:35:23Z INFO ConfigurationStore] ServiceConfigFilePath: E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.service
+[2021-06-14 18:35:23Z INFO CommandSettings] Flag 'help': 'False'
+[2021-06-14 18:35:23Z INFO CommandSettings] Flag 'version': 'False'
+[2021-06-14 18:35:23Z INFO CommandSettings] Flag 'commit': 'False'
+[2021-06-14 18:35:23Z INFO CommandSettings] Flag 'check': 'False'
+[2021-06-14 18:35:23Z INFO CommandSettings] Command 'configure': 'True'
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: 
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |        ____ _ _   _   _       _          _        _   _                      |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |       / ___(_) |_| | | |_   _| |__      / \   ___| |_(_) ___  _ __  ___      |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |      | |  _| | __| |_| | | | | '_ \    / _ \ / __| __| |/ _ \| '_ \/ __|     |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |      | |_| | | |_|  _  | |_| | |_) |  / ___ \ (__| |_| | (_) | | | \__ \     |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |       \____|_|\__|_| |_|\__,_|_.__/  /_/   \_\___|\__|_|\___/|_| |_|___/     |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE: |                       
+[2021-06-14 18:35:23Z INFO Terminal] WRITE: Self-hosted runner registration
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE:                         |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: |                                                                              |
+[2021-06-14 18:35:23Z INFO Terminal] WRITE LINE: --------------------------------------------------------------------------------
+[2021-06-14 18:35:23Z INFO ConfigurationManager] ConfigureAsync
+[2021-06-14 18:35:23Z INFO ConfigurationStore] IsConfigured()
+[2021-06-14 18:35:23Z INFO ConfigurationStore] IsConfigured: False
+[2021-06-14 18:35:23Z INFO ConfigurationManager] Is configured: False
+[2021-06-14 18:35:23Z INFO CommandSettings] Arg 'url': 'https://github.com/txn-source/spw_2048'
+[2021-06-14 18:35:23Z INFO CommandSettings] Remove url from Arg dictionary.
+[2021-06-14 18:35:23Z INFO CommandSettings] Arg 'token': '***'
+[2021-06-14 18:35:23Z INFO CommandSettings] Remove token from Arg dictionary.
+[2021-06-14 18:35:24Z INFO ConfigurationManager] Http response code: OK from 'POST https://api.github.com/actions/runner-registration'
+[2021-06-14 18:35:24Z INFO ConfigurationManager] cred retrieved via GitHub auth
+[2021-06-14 18:35:24Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-06-14 18:35:24Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:35:24Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-06-14 18:35:24Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:35:24Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-06-14 18:35:24Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:35:24Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:35:25Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:35:25Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:35:25Z INFO Terminal] WRITE LINE: 
+[2021-06-14 18:35:25Z INFO ConfigurationManager] Test Connection complete.
+[2021-06-14 18:35:25Z INFO HostContext] Well known directory 'Bin': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\bin'
+[2021-06-14 18:35:25Z INFO HostContext] Well known directory 'Root': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner'
+[2021-06-14 18:35:25Z INFO HostContext] Well known config file 'RSACredentials': 'E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_rsaparams'
+[2021-06-14 18:35:25Z INFO RSAEncryptedFileKeyManager] Creating new RSA key using 2048-bit key length
+[2021-06-14 18:35:25Z INFO RSAEncryptedFileKeyManager] Successfully saved RSA key parameters to file E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_rsaparams
+[2021-06-14 18:35:25Z INFO ConfigurationManager] Found a self-hosted runner group with id {1} and name {2} 1, Default
+[2021-06-14 18:35:25Z INFO CommandSettings] Arg 'name': ''
+[2021-06-14 18:35:25Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-06-14 18:35:25Z INFO PromptManager] ReadValue
+[2021-06-14 18:35:25Z INFO Terminal] WRITE: Enter the name of runner: 
+[2021-06-14 18:35:25Z INFO Terminal] WRITE: [press Enter for DESKTOP-7OLNDE7] 
+[2021-06-14 18:35:25Z INFO Terminal] READ LINE
+[2021-06-14 18:35:50Z INFO Terminal] Read value: 'github-runner'
+[2021-06-14 18:35:50Z INFO Terminal] WRITE LINE: 
+[2021-06-14 18:35:50Z INFO CommandSettings] Arg 'labels': ''
+[2021-06-14 18:35:50Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-06-14 18:35:50Z INFO PromptManager] ReadValue
+[2021-06-14 18:35:50Z INFO Terminal] WRITE: This runner will have the following labels: 'self-hosted', 'Windows', 'X64' 
+Enter any additional labels (ex. label-1,label-2): 
+[2021-06-14 18:35:50Z INFO Terminal] WRITE: [press Enter to skip] 
+[2021-06-14 18:35:50Z INFO Terminal] READ LINE
+[2021-06-14 18:43:41Z INFO Terminal] Read value: 'self-hosted-runner'
+[2021-06-14 18:43:41Z INFO Terminal] WRITE LINE: 
+[2021-06-14 18:43:42Z INFO ConfigurationStore] Saving OAuth credential @ E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials
+[2021-06-14 18:43:42Z INFO ConfigurationStore] Credentials Saved.
+[2021-06-14 18:43:42Z INFO ConfigurationStore] HasCredentials()
+[2021-06-14 18:43:42Z INFO ConfigurationStore] stored True
+[2021-06-14 18:43:42Z INFO CredentialManager] GetCredentialProvider
+[2021-06-14 18:43:42Z INFO CredentialManager] Creating type OAuth
+[2021-06-14 18:43:42Z INFO CredentialManager] Creating credential type: OAuth
+[2021-06-14 18:43:42Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_rsaparams
+[2021-06-14 18:43:42Z INFO RunnerServer] Establish connection with 100 seconds timeout.
+[2021-06-14 18:43:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:43:42Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-06-14 18:43:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:43:42Z INFO RunnerServer] Establish connection with 60 seconds timeout.
+[2021-06-14 18:43:42Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:43:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:43:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:43:43Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:43:43Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:43:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:43:44Z INFO GitHubActionsService] Starting operation Location.GetConnectionData
+[2021-06-14 18:43:44Z INFO GitHubActionsService] Finished operation Location.GetConnectionData
+[2021-06-14 18:43:44Z WARN GitHubActionsService] Authentication failed with status code 401.
+WWW-Authenticate: Bearer
+Strict-Transport-Security: max-age=2592000
+X-TFS-ProcessId: 26b91e35-3ed6-48ef-bf94-d31a9598627a
+ActivityId: 61fe0ca7-ad9e-490b-af2e-cdd7a51ee182
+X-TFS-Session: 2b72ac1e-a85c-45c6-bff7-5dd26bce4359
+X-VSS-E2EID: 29f14a2e-9408-48da-9dbd-e5176bb716f7
+X-VSS-SenderDeploymentId: 2c974d96-2c30-cef5-eff2-3e0511a903a5
+X-TFS-ServiceError: The+user+%27System%3aPublicAccess%3baaaaaaaa-aaaa-aaaa-aaaa-aaaaaaaaaaaa%27+is+not+authorized+to+access+this+resource.
+X-VSS-S2STargetService: 0000005A-0000-8888-8000-000000000000/visualstudio.com
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 760BFB1ACAD54069B557BF19E20663A3 Ref B: VIEEDGE1319 Ref C: 2021-06-14T18:43:44Z
+Date: Mon, 14 Jun 2021 18:43:44 GMT
+
+[2021-06-14 18:43:44Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_rsaparams
+[2021-06-14 18:43:44Z INFO RSAEncryptedFileKeyManager] Loading RSA key parameters from file E:\FH 4. Semester\SPW\3. Hue\spw_2048\actions-runner\.credentials_rsaparams
+[2021-06-14 18:43:44Z INFO GitHubActionsService] AAD Correlation ID for this token request: Unknown
+[2021-06-14 18:43:45Z INFO CommandSettings] Arg 'work': ''
+[2021-06-14 18:43:45Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-06-14 18:43:45Z INFO PromptManager] ReadValue
+[2021-06-14 18:43:45Z INFO Terminal] WRITE: Enter name of work folder: 
+[2021-06-14 18:43:45Z INFO Terminal] WRITE: [press Enter for _work] 
+[2021-06-14 18:43:45Z INFO Terminal] READ LINE
+[2021-06-14 18:44:01Z INFO Terminal] Read value: ''
+[2021-06-14 18:44:01Z INFO PromptManager] Falling back to the default: '_work'
+[2021-06-14 18:44:01Z INFO ConfigurationStore] Saving runner settings.
+[2021-06-14 18:44:01Z INFO ConfigurationStore] Settings Saved.
+[2021-06-14 18:44:01Z INFO Terminal] WRITE LINE: 
+[2021-06-14 18:44:01Z INFO Terminal] WRITE LINE: 
+[2021-06-14 18:44:01Z INFO CommandSettings] Flag 'runasservice': 'False'
+[2021-06-14 18:44:01Z INFO CommandSettings] Flag 'unattended': 'False'
+[2021-06-14 18:44:01Z INFO PromptManager] ReadValue
+[2021-06-14 18:44:01Z INFO Terminal] WRITE: Would you like to run the runner as service? (Y/N) 
+[2021-06-14 18:44:01Z INFO Terminal] WRITE: [press Enter for N] 
+[2021-06-14 18:44:01Z INFO Terminal] READ LINE
+[2021-06-14 18:44:16Z INFO Terminal] Read value: 'y'
+[2021-06-14 18:44:16Z INFO ConfigurationManager] Configuring to run the agent as service
+[2021-06-14 18:44:16Z ERR  WindowsServiceControlManager] Needs Administrator privileges for configure runner as windows service.
+[2021-06-14 18:44:16Z ERR  Runner] System.Security.SecurityException: Needs Administrator privileges for configuring runner as windows service.
+   at GitHub.Runner.Listener.Configuration.WindowsServiceControlManager.ConfigureService(RunnerSettings settings, CommandSettings command)
+   at GitHub.Runner.Listener.Configuration.ConfigurationManager.ConfigureAsync(CommandSettings command)
+   at GitHub.Runner.Listener.Runner.ExecuteCommand(CommandSettings command)
+[2021-06-14 18:44:16Z ERR  Terminal] WRITE ERROR: Needs Administrator privileges for configuring runner as windows service.
+[2021-06-14 18:44:16Z INFO Listener] Runner execution has finished with return code 1
