@@ -1,5 +1,10 @@
 name: github-game2048-ci
 on: [workflow_dispatch]
+
+env:
+  maven_package_cache: ".m2/repository/"
+  MAVEN_OPTS: "-Dmaven.repo.local=./$maven_package_cache"
+
 jobs:
   build:
     runs-on: self-hosted
